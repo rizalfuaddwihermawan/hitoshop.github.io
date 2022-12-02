@@ -167,12 +167,12 @@ main .active,
 }
 
 .card-deskripsi .card-header{
-    background-color: #ffffff;
-    color: #010F27;
+    background-color: #00075965;
+    color: #fff;
 }
 
 .text-deskripsi{
-    color: #010F27;
+    color: #ffffff;
     margin: 0;
     text-transform: uppercase;
 }
